@@ -1,0 +1,9 @@
+moshiko,1234,8,1,L
+yan,1234,5,4,B
+amit,1234,0,2,A
+yakov,3333,0,0,A
+zmira,1234,1,1,A
+yair,1234,0,0,A
+alon,1234,0,3,A
+lior,1234,0,1,A
+elad,1234,1,2,A
