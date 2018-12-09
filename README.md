@@ -19,5 +19,6 @@ A fun game with very friendly user interface, so come and play tic tac toe! win 
 
 * Player - The same class as the server.
 
+![UI image](http://www.interload.co.il/upload/6736013.png)
 
 ### @All rights reserved to Moshiko frastai.
